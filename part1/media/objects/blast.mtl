@@ -1,0 +1,9 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Blast
+Ns 250.000000
+Ke 1.0 1.0 1.0
+Ni 1.450000
+d 1.000000
+illum 2

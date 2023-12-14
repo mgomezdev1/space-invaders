@@ -1,0 +1,10 @@
+# Blender 4.0.1 MTL File: 'flame.blend'
+# www.blender.org
+
+newmtl Flame
+Ns 360.000000
+Ke 1.0 1.0 1.0
+map_Ke Flame.ppm
+Ni 1.000000
+d 1.000000
+illum 2

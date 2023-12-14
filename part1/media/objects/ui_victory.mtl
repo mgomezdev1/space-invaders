@@ -1,0 +1,10 @@
+# Blender 4.0.1 MTL File: 'star.blend'
+# www.blender.org
+
+newmtl Base
+Ns 360.000000
+Ke 1.000000 1.000000 1.000000
+map_Ke Victory.ppm
+Ni 1.000000
+d 1.000000
+illum 2

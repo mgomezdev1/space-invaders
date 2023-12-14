@@ -1,0 +1,10 @@
+# Blender 4.0.1 MTL File: 'bullet.obj.blend'
+# www.blender.org
+
+newmtl Bullet
+Ns 250.000000
+Ke 1.000000 1.000000 1.000000
+map_Ke BulletTexture.ppm
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,16 @@
+# Blender 4.0.1 MTL File: 'bullet.obj.blend'
+# www.blender.org
+
+newmtl Material
+Ka 0.150000 0.100000 0.175000
+map_Ka ShipDiffuse.ppm
+Kd 0.800204 0.788479 0.701169
+map_Kd ShipDiffuse.ppm
+Ks 0.500000 0.500000 0.500000
+map_Ks ShipSpecular.ppm
+Ns 64
+map_Ns ShipGlossiness.ppm
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

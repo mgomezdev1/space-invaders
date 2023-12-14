@@ -1,0 +1,11 @@
+# Blender 4.0.1 MTL File: 'ALIEN.blend'
+# www.blender.org
+
+newmtl Base
+Ns 200
+Ka 0.05 0.05 0.05
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+Ke 0.25 0.25 0.25
+d 1
+illum 2
